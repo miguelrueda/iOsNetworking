@@ -13,6 +13,7 @@
 		C99056BD24AD505000E30766 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C99056BB24AD505000E30766 /* Main.storyboard */; };
 		C99056BF24AD505100E30766 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C99056BE24AD505100E30766 /* Assets.xcassets */; };
 		C99056C224AD505100E30766 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C99056C024AD505100E30766 /* LaunchScreen.storyboard */; };
+		C99056CA24AD506100E30766 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99056C924AD506100E30766 /* DataService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C99056BE24AD505100E30766 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C99056C124AD505100E30766 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C99056C324AD505100E30766 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C99056C924AD506100E30766 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C99056B524AD505000E30766 /* AppDelegate.swift */,
 				C99056B724AD505000E30766 /* SceneDelegate.swift */,
 				C99056B924AD505000E30766 /* ViewController.swift */,
+				C99056C924AD506100E30766 /* DataService.swift */,
 				C99056BB24AD505000E30766 /* Main.storyboard */,
 				C99056BE24AD505100E30766 /* Assets.xcassets */,
 				C99056C024AD505100E30766 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C99056BA24AD505000E30766 /* ViewController.swift in Sources */,
 				C99056B624AD505000E30766 /* AppDelegate.swift in Sources */,
 				C99056B824AD505000E30766 /* SceneDelegate.swift in Sources */,
+				C99056CA24AD506100E30766 /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
