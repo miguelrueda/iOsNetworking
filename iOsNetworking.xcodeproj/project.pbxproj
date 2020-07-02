@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C958406324AE250E000C7B99 /* Gist.swift in Sources */ = {isa = PBXBuildFile; fileRef = C958406224AE250E000C7B99 /* Gist.swift */; };
 		C99056B624AD505000E30766 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99056B524AD505000E30766 /* AppDelegate.swift */; };
 		C99056B824AD505000E30766 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99056B724AD505000E30766 /* SceneDelegate.swift */; };
 		C99056BA24AD505000E30766 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99056B924AD505000E30766 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C958406224AE250E000C7B99 /* Gist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gist.swift; sourceTree = "<group>"; };
 		C99056B224AD505000E30766 /* iOsNetworking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOsNetworking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C99056B524AD505000E30766 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C99056B724AD505000E30766 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				C99056B524AD505000E30766 /* AppDelegate.swift */,
 				C99056B724AD505000E30766 /* SceneDelegate.swift */,
 				C99056B924AD505000E30766 /* ViewController.swift */,
+				C958406224AE250E000C7B99 /* Gist.swift */,
 				C99056C924AD506100E30766 /* DataService.swift */,
 				C99056BB24AD505000E30766 /* Main.storyboard */,
 				C99056BE24AD505100E30766 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C958406324AE250E000C7B99 /* Gist.swift in Sources */,
 				C99056BA24AD505000E30766 /* ViewController.swift in Sources */,
 				C99056B624AD505000E30766 /* AppDelegate.swift in Sources */,
 				C99056B824AD505000E30766 /* SceneDelegate.swift in Sources */,
